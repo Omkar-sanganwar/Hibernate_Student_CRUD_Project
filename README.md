@@ -4,23 +4,23 @@
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Hibernate, a popular ORM (Object-Relational Mapping) framework, with a MySQL database. The project manages student records, including their roll number, name, and marks, in the database.
 
 # Features :-
-1)Insert: Add new student records to the database.
-2)Select: Retrieve and display student records by their roll_no.
-3)Update: Modify existing student records.
-4)Delete: Remove student records from the database.
-5)Save or Update: Add a new record or update an existing one.
+- 'Insert': Add new student records to the database.
+- 'Select':Retrieve and display student records by their roll_no.
+- 'Update': Modify existing student records.
+- 'Delete': Remove student records from the database.
+- 'Save or Update': Add a new record or update an existing one.
 
 # Prerequisites:-
-1)Java Development Kit (JDK) 8 or later
-2)Maven
-3)MySQL Database
-4)Hibernate 5.6.15.Final
-5)MySQL Connector/J 8.0.33
+- Java Development Kit (JDK) 8 or later
+- Maven
+- MySQL Database
+- Hibernate 5.6.15.Final
+- MySQL Connector/J 8.0.33
 
 # Technologies Used:-
-1)Hibernate ORM Framework
-2)MySQL
-3)Java
+- Hibernate ORM Framework
+ - MySQL
+ -  Java
 
 # Project Structure:
 
@@ -34,9 +34,8 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 
 - **src/main/resources/**
   - `hibernate.cfg.xml`           : Hibernate configuration file
-
-- `pom.xml`                       : Maven configuration file
-- `README.md`                     : Project documentation
+  - `pom.xml`                       : Maven configuration file
+  - `README.md`                     : Project documentation
 
 
  
