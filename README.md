@@ -1,4 +1,6 @@
 Hibernate Student CRUD Project
+
+
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Hibernate, a popular ORM (Object-Relational Mapping) framework, with a MySQL database. The project manages student records, including their roll number, name, and marks, in the database.
 
 #Features :-
