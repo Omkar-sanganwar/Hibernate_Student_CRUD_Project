@@ -33,7 +33,7 @@ Hibernate_Student_CRUD_Project/
 │   ├── ClientDelete.java            # Demonstrates the delete operation
 │   └── ClientSaveOrUpdate.java      # Demonstrates save or update operation
 ├── src/main/resources/
-│   ├── hibernate.cfg.xml            # Hibernate configuration file
+│   ├── hibernate.cfg.xml             # Hibernate configuration file
 ├── pom.xml                          # Maven configuration file
 └── README.md                        # Project documentation
 
